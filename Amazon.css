@@ -4,7 +4,7 @@
 #Abox {
     display: block;
     font: times new roman;
-    text-align:center;
+    
 }
 
 div.a {
@@ -13,10 +13,9 @@ div.a {
   width: 400px;
   height: 400px;  
   padding: 50px;
+  align-self: auto;
   
 }
-
-
 
 
 #Abox{
