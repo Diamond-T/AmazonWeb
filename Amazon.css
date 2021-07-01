@@ -10,7 +10,9 @@
 
 div.a {
 	display: left;
-	margin: auto;
+ margin-top:20%;
+	margin-left: auto;
+	margin-right: auto;
 	width: 30%;
 	border: 1px solid;
 	padding: 30px;
@@ -35,20 +37,18 @@ div.c{
 
 div.m{
 	display:left;
-	
+	padding-bottom:20px;
 }
+
+
+
 div.z{
 	display: ;
 	
 
 }
 
-div.b{
-	
 
-
-
-}
 div.b{
 	height: 200px;
 	width: 200px;
